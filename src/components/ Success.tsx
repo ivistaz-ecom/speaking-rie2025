@@ -8,7 +8,6 @@ function Success() {
   useEffect(()=>{
     AOS.init();
   
-  
   },[])
   return (
     <div className="mx-auto pb-32 mt-20 bg-[#3F2C6B]">

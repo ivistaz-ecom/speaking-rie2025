@@ -20,10 +20,10 @@ function Organization() {
       setCounters(prevCounters => prevCounters.map((counter, index) =>
         counter < endValues[index] ? counter + 1 : counter
       ));
-    }, []);
+    });
 
     return () => clearInterval(interval);
-  }, []);
+  },[]);
  
 
   return (

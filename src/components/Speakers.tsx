@@ -46,10 +46,10 @@ function Speakers() {
         <PartnersSlider {...setting}  className="pt-20">
           {/* Your slides go here */}
           
-          <div><Image src="/images/praful.png" className="img-fluid" width={450} height={150} /></div>
-          <div><Image src="/images/Ramsums.png" className="img-fluid" width={450} height={150} /></div>
-          <div><Image src="/images/Rahul.png" className="img-fluid" width={450} height={150} /></div>
-          <div><Image src="/images/azim.png" className="img-fluid" width={450} height={150} /></div>
+          <div><Image src="/images/praful.png" className="img-fluid" width={450} height={150} alt=""/></div>
+          <div><Image src="/images/Ramsums.png" className="img-fluid" width={450} height={150} alt=""/></div>
+          <div><Image src="/images/Rahul.png" className="img-fluid" width={450} height={150} alt=""/></div>
+          <div><Image src="/images/azim.png" className="img-fluid" width={450} height={150} alt="" /></div>
           
         </PartnersSlider>
       </div>
