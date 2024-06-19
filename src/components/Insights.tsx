@@ -15,7 +15,7 @@ function Insights() {
     <div className="mx-auto py-16 pb-10 bg-[#E5205C]  overflow-hidden">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
         {/* Column 1: Text */}
-        <div className=" text-center lg:text-left px-6 lg:px-20" data-aos="fade-right"
+        <div className="  lg:text-left px-6 lg:px-20" data-aos="fade-right"
       data-aos-offset="200"
       
       data-aos-duration="1000"
@@ -37,15 +37,7 @@ function Insights() {
             height={700}
             className="object-contain"
           />
-          <div className="hidden lg:block absolute lg:right-[400px] lg:top-[460px]">
-            <Image
-              src="/images/mask-1.svg"
-              alt="Top Image"
-              width={90}
-              height={90}
-              className="object-contain"
-            />
-          </div>
+          
         </div>
       </div>
     </div>

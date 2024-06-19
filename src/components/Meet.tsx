@@ -12,7 +12,7 @@ function Meet() {
   },[])
 
   return (
-    <div className="flex flex-col items-center py-10 px-12 justify-center bg-white "
+    <div className="flex flex-col items-center py-10 px-12 justify-center bg-white  overflow-hidden "
     >
       <h1 className="text-4xl lg:text-[40px] font-bold text-[#E5205C] mb-4 text-center" data-aos="fade-up"
     data-aos-offset="100"
@@ -37,11 +37,11 @@ function Meet() {
         The EO Bangalore chapter is proud to host its flagship event, the Regional Integration Event (RIE), between January 09 and 12, 2025. The event promises to be a celebration of human will and imagination and the pathbreaking stories that stand testimony to the limits that human endeavour can be pushed. 1,000 leading entrepreneurs from EO South Asia, and around the world will be attending the event with eager anticipation to learn and be inspired by the extraordinary journey of individuals who have defied the odds and emerged triumphant.
       </p>
 
-      <h3 className="text-xl lg:text-[22px] font-bold text-[#F2BE31] mb-4 text-center pb-10 text-normal font-avertaLight">
+      <h3 className="text-xl lg:text-[22px] font-bold text-[#F2BE31] mb-4 text-center  pb-20 text-normal font-avertaLight">
         Here, we push the envelope, celebrate successes, and cherish moments of connection.
       </h3>
 
-      <div className="hidden lg:block lg:absolute lg:right-[-5px] lg:top-[900px]">
+      <div className="hidden lg:block lg:absolute lg:right-[-5px] lg:top-[950px]">
         <Image
           src="/images/Mask.png"
           alt="Top Image"

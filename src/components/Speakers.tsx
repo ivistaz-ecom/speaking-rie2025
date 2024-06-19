@@ -53,7 +53,7 @@ function Speakers() {
         
         </PartnersSlider>
       </div>
-      <Link href="https://rie2025.com/speakers" className="text-black font-mbold ">SEE MORE</Link>
+      <Link href="/speakers" className="text-black font-mbold ">SEE MORE</Link>
     </section>
 
   )
