@@ -10,7 +10,7 @@ function Success() {
   
   },[])
   return (
-    <div className="mx-auto pb-32 mt-20 bg-[#3F2C6B]">
+    <div className="mx-auto pb-32 mt-20 bg-[#3F2C6B]  overflow-hidden">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
         {/* Column 1: Image */}
         <div className="text-center lg:text-left lg:pl-20 z-10 " >

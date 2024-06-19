@@ -15,7 +15,7 @@ useEffect(()=>{
 
 
   return (
-    <div className="relative flex flex-col items-center p-8 bg-cover bg-center lg:h-[700px] averta" style={{ backgroundImage: `url('/images/Banner.png')` }}>
+    <div className="relative flex flex-col items-center p-8 bg-cover bg-center lg:h-[700px] averta  overflow-hidden" style={{ backgroundImage: `url('/images/Banner.png')` }}>
       <div className='relative z-10 flex flex-col items-center gap-5'
       data-aos="fade-down" 
       data-aos-offset="200"
