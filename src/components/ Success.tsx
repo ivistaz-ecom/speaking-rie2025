@@ -39,7 +39,7 @@ function Success() {
         </div>
 
         {/* Large Screen Only Image */}
-        <div className="hidden lg:block absolute lg:right-0 lg:top-[3200px]">
+        <div className="hidden lg:block absolute lg:right-0 lg:top-[3230px]">
           <Image
             src="/images/Mask Group 16@2x.png"
             alt="Top Image"
