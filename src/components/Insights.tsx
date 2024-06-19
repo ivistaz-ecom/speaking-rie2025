@@ -15,7 +15,7 @@ function Insights() {
     <div className="mx-auto py-16 pb-10 bg-[#E5205C]">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
         {/* Column 1: Text */}
-        <div className=" lg:text-left px-6 lg:px-20" data-aos="fade-right"
+        <div className=" text-center lg:text-left px-6 lg:px-20" data-aos="fade-right"
       data-aos-offset="200"
       
       data-aos-duration="1000"

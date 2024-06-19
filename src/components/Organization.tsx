@@ -41,7 +41,7 @@ function Organization() {
             <h2 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-[#E5205C]">
               <CountUp start={startValues[index]} end={counter} duration={3} suffix={suffixValues[index]} />
             </h2>
-            <p className=" sm:text-3xl text-[55px] font-bold text-[#000000] text-center mt-2">{titles[index]}</p>
+            <p className="  lg:text-[55px] font-bold text-[#000000] text-center mt-2">{titles[index]}</p>
           </div>
         ))}
       </div>
