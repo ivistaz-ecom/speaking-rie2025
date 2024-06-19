@@ -50,7 +50,7 @@ function Speakers() {
           <div><Image src="/images/Ramsums.png" className="img-fluid" width={450} height={150} alt=""/></div>
           <div><Image src="/images/Rahul.png" className="img-fluid" width={450} height={150} alt=""/></div>
           <div><Image src="/images/azim.png" className="img-fluid" width={450} height={150} alt="" /></div>
-          
+        
         </PartnersSlider>
       </div>
       <Link href="https://rie2025.com/speakers" className="text-black font-mbold ">SEE MORE</Link>
