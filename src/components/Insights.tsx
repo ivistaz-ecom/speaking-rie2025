@@ -10,7 +10,7 @@ function Insights() {
   }, []);
 
   return (
-    <div className="mx-auto py-16 pb-10 pl-20 bg-[#E5205C] overflow-hidden">
+    <div className="mx-auto py-16 pb-10 lg:pl-20 bg-[#E5205C] overflow-hidden">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
         {/* Column 1: Text */}
         <div
