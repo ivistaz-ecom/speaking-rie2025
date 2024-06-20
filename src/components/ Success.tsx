@@ -42,7 +42,10 @@ function Success() {
         </div>
 
         {/* Large Screen Only Image */}
-        <div className="hidden lg:block absolute lg:right-0 lg:top-[3230px]">
+        <div className="hidden lg:block absolute lg:right-0 lg:top-[3230px]" data-aos="fade-down"
+          data-aos-offset="200"
+          data-aos-duration="1000"
+          data-aos-easing="ease-in-out">
           <Image
             src="/images/Mask Group 16@2x.png"
             alt="Top Image"
