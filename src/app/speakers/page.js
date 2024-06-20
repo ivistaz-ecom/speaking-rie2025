@@ -9,6 +9,7 @@ import "aos/dist/aos.css"; // You can include the CSS or customize it according 
 
 
 import Speakers from '../../app/speakers/rieFeb2011'
+import Footer from '@/components/Footer';
 
 
 export default function Home() {
@@ -34,6 +35,7 @@ export default function Home() {
         <div>
         
           <Speakers/>
+          <Footer/>
     
         </div>
   

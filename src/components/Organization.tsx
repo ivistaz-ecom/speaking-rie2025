@@ -34,7 +34,7 @@ function Organization() {
  
 
   return (
-    <div className="mx-auto py-8 px-6 sm:px-10 bg-[#F3BF30] overflow-hidden" 
+    <div className="mx-auto py-8 px-6 sm:px-10 bg-[#F3BF30] overflow-hidden z-10" 
     >
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
       data-aos="fade-up"
